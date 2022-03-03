@@ -1,0 +1,5 @@
+# Demo
+## Manual
+-Add the dependencies from the software folder to matlab
+-The dissimilarity algorithm proposed can be modified completely
+-The principal variables are the number of segments (m) and the tolerance for creating sub-chains of accumulate slope chage by epsilon from [0-1].
